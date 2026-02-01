@@ -17,8 +17,8 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  # - title: "WBES"
-  #  url: /wbes/    
+  - title: "WBES"
+    url: /wbes/    
 
 
   - title: "CV"

@@ -14,5 +14,9 @@ Before beginning my Ph.D. program at UNC Chapel Hill, I earned a Bachelor’s de
 
 ---
 
+I am also a [consultant at the World Bank’s Enterprise Analysis Unit](https://www.worldbank.org/en/about/people/d/danny-turkson), which conducts the World Bank Enterprise Survey (WBES). The WBES are nationally representative firm-level surveys with top managers and owners of businesses in over 150 economies, reaching 180 in upcoming years, that provide insight into many business environment topics such as access to finance, corruption, infrastructure, and performance, among others.
+
+---
+
 Here is my [Curriculum Vitae](/files/dturkson_CV_2025.pdf). You can contact me via [dturkson@unc.edu](mailto:dturkson@unc.edu).
 

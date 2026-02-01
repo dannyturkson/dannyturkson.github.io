@@ -18,8 +18,14 @@ Education
 
 Work experience
 ======
+* Fall 2023 - Present: Short-term Consultant
+  * Enterprise Survey Unit, The World Bank
+
 * Fall 2021 - Present: Graduate Teaching and Research Assistant
   * Economics Department, University of North Carolina at Chapel Hill
+
+* Summer 2025 - Fall 2025: Research Assistant
+  * UNC Sheps Center for Health Services Research, UNC Chapel Hill
 
 * Fall 2019 - Summer 2021: Graduate Teaching and Research Assistant
   * Economics Department, University of North Carolina at Greensboro
