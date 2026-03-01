@@ -46,4 +46,4 @@ Publications
 ---
 
 
-Find my full CV [here](/files/dturkson_CV_2025.pdf).
+Find my full CV [here](/files/dturkson_CV.pdf).

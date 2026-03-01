@@ -18,5 +18,5 @@ I am also a [consultant at the World Bank’s Enterprise Analysis Unit](https://
 
 ---
 
-Here is my [Curriculum Vitae](/files/dturkson_CV_2025.pdf). You can contact me via [dturkson@unc.edu](mailto:dturkson@unc.edu).
+Here is my [Curriculum Vitae](/files/dturkson_CV.pdf). You can contact me via [dturkson@unc.edu](mailto:dturkson@unc.edu).
 
