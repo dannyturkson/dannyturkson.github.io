@@ -9,15 +9,15 @@ layout: page
 
 ### Education
 
-- **Ph.D., Economics** --- University of North Carolina at Chapel Hill, 2026 (expected). *Dissertation:* From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families. Advisor: Professor Donna Gilleskie.
+- **Ph.D., Economics** --- University of North Carolina at Chapel Hill, 2027 (expected). *Dissertation:* From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families. Advisor: Professor Donna Gilleskie.
 - **M.A., Applied Economics** --- University of North Carolina at Greensboro, 2021.
 - **M.Phil., Economics** --- University of Ghana, 2018.
 - **B.Sc., Economics and Statistics** --- University of Ghana, 2015.
 
 ### Research Fields
 
-- **Primary:** Family Economics, Labor Economics
-- **Secondary:** Health Economics, Education Economics, Development Economics, Applied Microeconometrics
+- **Primary:** Family and Household Economics, Labor and Education Economics, Health Economics
+- **Secondary:** Applied Microeconometrics, Development Economics
 
 ### Research & Professional Experience
 

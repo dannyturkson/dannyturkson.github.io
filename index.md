@@ -18,7 +18,7 @@ Here is my [Curriculum Vitae](assets/Turkson_CV.pdf){:target="_blank" rel="noope
 ### Research Interests
 
 - Family economics; parental behavior; early childhood development; intergenerational mobility
-- Labor economics; education economics; value added 
+- Labor economics; education economics
 - Health economics; health behavior; maternal and child health; substance use; 
 - Development economics; cash transfers; poverty
 - Applied microeconometrics; dynamic structural models; causal inference

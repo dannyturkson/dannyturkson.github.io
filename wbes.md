@@ -5,11 +5,11 @@ layout: page
 
 # WBES
 
-I serve as a consultant with the [World Bank's Enterprise Analysis Unit](https://www.worldbank.org/en/programs/enterprise-analysis){:target="_blank" rel="noopener"}, contributing to the design, implementation, and dissemination of the World Bank Enterprise Surveys (WBES) program.
+I serve as a consultant with the [World Bank's Enterprise Analysis Unit](https://www.enterprisesurveys.org/en/enterprisesurveys){:target="_blank" rel="noopener"}, contributing to the design, implementation, and dissemination of the World Bank Enterprise Surveys (WBES) program.
 
 ### World Bank Enterprise Surveys (WBES)
 
-[World Bank Enterprise Surveys (WBES)](https://www.enterprisesurveys.org/){:target="_blank" rel="noopener"} are nationally representative firm-level surveys with top managers and owners of businesses in over 150 economies, reaching 180 in upcoming years, that provide insight into many business environment topics such as access to finance, corruption, infrastructure, and performance, among others.
+[World Bank Enterprise Surveys (WBES)](https://www.enterprisesurveys.org/en/enterprisesurveys){:target="_blank" rel="noopener"} are nationally representative firm-level surveys with top managers and owners of businesses in over 150 economies, reaching 180 in upcoming years, that provide insight into many business environment topics such as access to finance, corruption, infrastructure, and performance, among others.
 
 The World Bank's Enterprise Analysis Unit is a team of economists and firm-level survey experts that:
 
@@ -37,4 +37,4 @@ The surveys capture private sector perspectives on key obstacles to doing busine
   <div class="topic-item">Tax Administration</div>
 </div>
 
-Meet the [WBES team](https://www.worldbank.org/en/programs/enterprise-analysis){:target="_blank" rel="noopener"}.
+Meet the [WBES team](https://www.enterprisesurveys.org/en/about-us/meet-the-team){:target="_blank" rel="noopener"}.

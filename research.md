@@ -54,7 +54,7 @@ Prior research suggests that college drinking adversely affects education. While
 
 ---
 
-### Refereed Journal Publications
+### Journal Publications
 
 1. Kuperberg, A., **Turkson, D.**, Mazelis, J.M., Fredricks, K., & Pant, A. (2025). Student Loan Debt and Higher Education Disruptions During COVID-19. *Journal of Student Financial Aid*, 54(2): Article 8. [`Journal`](https://ir.library.louisville.edu/jsfa/vol54/iss2/8/){:target="_blank" rel="noopener"}
 
@@ -77,5 +77,7 @@ Prior research suggests that college drinking adversely affects education. While
 ### Work in Progress
 
 - **Turkson, D.** Parental Substance Use, Incarceration, and the Long-Run Educational Achievements of Children.
+
+- **Turkson, D.** Marijuana Legalization, Crime and Mental Health among Fathers in Fragile Families.
 
 - **Turkson, D.** & Malone, T. Rural Hospital Closures and Hospital Surge Capacity.
