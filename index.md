@@ -13,7 +13,7 @@ My job market paper, *From Cradle to Consequence: The Dynamic Impact of Parental
 
 Before UNC Chapel Hill, I earned a Bachelor's degree in Economics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and a Master's degree in Applied Economics from [UNC Greensboro](https://www.uncg.edu/). I am also a [consultant with the World Bank's Enterprise Analysis Unit](https://www.worldbank.org/en/about/people/d/danny-turkson), supporting the World Bank Enterprise Surveys (WBES) program.
 
-Here is my [Curriculum Vitae](files/Turkson_CV.pdf){:target="_blank" rel="noopener"}. You can contact me via [dturkson@unc.edu](mailto:dturkson@unc.edu).
+Here is my [Curriculum Vitae](assets/Turkson_CV.pdf){:target="_blank" rel="noopener"}. You can contact me via [dturkson@unc.edu](mailto:dturkson@unc.edu).
 
 ### Research Interests
 

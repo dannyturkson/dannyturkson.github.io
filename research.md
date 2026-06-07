@@ -26,7 +26,7 @@ How do parental behaviors at different stages of childhood causally shape a chil
 ### Working Papers
 
 **Turkson, D.**, Wahab, S., Yorke, F.R., & Akyena, S. (2024). The Causal Effects of Multidimensional School and Household Poverty on Student Achievement: An IV-Latent Class Analysis.  
-[[Draft (PDF)](files/Poverty_Student_Achievement.pdf){:target="_blank" rel="noopener"}]
+[[Draft (PDF)](assets/Poverty_Student_Achievement.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
 

@@ -10,9 +10,9 @@ I am on the academic job market for the 2026--2027 cycle. My primary fields are 
 ### Application Materials
 
 - [Job Market Paper](#){:target="_blank" rel="noopener"} --- *From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families*
-- [Research Statement](files/Turkson_Research_Statement.pdf){:target="_blank" rel="noopener"}
-- [Teaching Statement](files/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener"}
-- [Curriculum Vitae](files/Turkson_CV.pdf){:target="_blank" rel="noopener"}
+- [Research Statement](assets/Turkson_Research_Statement.pdf){:target="_blank" rel="noopener"}
+- [Teaching Statement](assets/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener"}
+- [Curriculum Vitae](assets/Turkson_CV.pdf){:target="_blank" rel="noopener"}
 
 ### References
 

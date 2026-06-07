@@ -7,7 +7,7 @@ layout: page
 
 I have been teaching economics, statistics, and research methods continuously since 2015 — across three institutions and two countries, at undergraduate and graduate levels, in classrooms ranging from 30 to 250 students.
 
-[Teaching Statement (PDF)](files/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
+[Teaching Statement (PDF)](assets/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
 
 ---
 
@@ -72,7 +72,7 @@ Scale: 1 (lowest) to 5 (highest). Scores shown for four semesters as instructor 
   </tbody>
 </table>
 
-[Full Evaluation Summary (PDF)](files/turkson_teaching_evaluation_summary.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
+[Full Evaluation Summary (PDF)](assets/turkson_teaching_evaluation_summary.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
 
 #### Selected Student Comments
 
