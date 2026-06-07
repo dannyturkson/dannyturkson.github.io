@@ -1,0 +1,149 @@
+/* Base link style */
+a {
+    color: $grey-color;
+    text-decoration: none;
+    font-weight: normal;
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
+
+/* Force sidebar + content links to grey */
+.container a,
+.col-md-3 a,
+.col-md-9 a,
+#content a {
+    color: $grey-color;
+    &:hover { color: $text-color; }
+}
+
+/* Footer links */
+footer a {
+    color: $grey-color;
+    &:hover { color: #ffffff; }
+}
+
+/* Abstract toggles */
+details {
+    margin-top: -0.35rem;
+    margin-bottom: 1.9rem;
+    margin-left: 1.1rem;
+}
+details > summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: $grey-color;
+    margin-bottom: 0.4rem;
+}
+details > summary:hover { color: $text-color; }
+details p:last-child { margin-bottom: 0; }
+
+/* Teaching eval table */
+.eval-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: .88rem;
+    margin: .4rem 0 .8rem;
+}
+.eval-table th {
+    text-align: left;
+    font-weight: 700;
+    color: $grey-color;
+    font-size: .76rem;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    padding: .4rem .5rem;
+    border-bottom: 2px solid $grey-color-light;
+}
+.eval-table td {
+    padding: .4rem .5rem;
+    border-bottom: 1px solid $grey-color-light;
+}
+.eval-table tr:last-child td { border-bottom: none; }
+.eval-bar-wrap {
+    width: 80px;
+    background: $grey-color-light;
+    border-radius: 20px;
+    height: 6px;
+    overflow: hidden;
+}
+.eval-bar {
+    height: 100%;
+    background: $grey-color-dark;
+    border-radius: 20px;
+}
+
+/* Student quote blockquotes */
+blockquote.student-quote {
+    margin: 0 0 .55rem;
+    padding: .65rem .9rem .65rem 1rem;
+    background: #f9f9f8;
+    border-left: 3px solid $grey-color-light;
+    font-size: .93rem;
+    line-height: 1.65;
+    color: $grey-color-dark;
+}
+blockquote.student-quote cite {
+    display: block;
+    margin-top: .28rem;
+    font-size: .8rem;
+    color: $grey-color;
+    font-style: normal;
+}
+.comment-label {
+    font-weight: 700;
+    font-size: .78rem;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: $grey-color-dark;
+    margin: 0 0 .5rem;
+}
+
+/* Badge for job market paper */
+.badge-jmp {
+    display: inline-block;
+    font-size: .68rem;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    background: #13294B;
+    color: #fff;
+    padding: .12rem .42rem;
+    border-radius: 3px;
+    margin-left: .4rem;
+    vertical-align: middle;
+}
+
+/* PDF button */
+.btn-pdf {
+    display: inline-block;
+    font-size: .82rem;
+    font-weight: 600;
+    color: $grey-color-dark;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: .3rem .8rem;
+    text-decoration: none;
+    &:hover {
+        background: $grey-color-dark;
+        color: #fff;
+        border-color: $grey-color-dark;
+        text-decoration: none;
+    }
+}
+
+/* WBES topic grid */
+.topic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: .6rem;
+    margin: .8rem 0 1.2rem;
+}
+.topic-item {
+    background: #f4f4f4;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    padding: .5rem .8rem;
+    font-size: .86rem;
+}

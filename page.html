@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="container py-4">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="text-left">
+            <img src="{{ '/images/profile.JPG' | relative_url }}" alt="{{ site.author }}" class="rounded text-center w-75">
+            <h4 class="mt-4">{{ site.author }}</h4>
+            <p class="text-muted mt-2 mb-2" style="font-size:.88rem;line-height:1.5">{{ site.bio }}</p>
+            <p class="text-muted text-small my-2"><span class="fas fa-map-marker-alt"></span> Chapel Hill, NC</p>
+            <p class="text-muted text-small my-2"><span class="fas fa-university"></span> <a href="{{ site.school }}" target="_blank" rel="noopener">UNC Chapel Hill</a></p>
+            <p class="text-muted text-small my-2"><span class="fas fa-envelope-square"></span> <a href="{{ site.email | prepend: 'mailto:' }}">Email</a></p>
+            {% if site.scholar %}<p class="text-muted text-small my-2"><span class="fas fa-graduation-cap"></span> <a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar</a></p>{% endif %}
+            {% if site.orcid %}<p class="text-muted text-small my-2"><span class="fab fa-orcid"></span> <a href="{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a></p>{% endif %}
+            {% if site.researchgate %}<p class="text-muted text-small my-2"><span class="fab fa-researchgate"></span> <a href="{{ site.researchgate }}" target="_blank" rel="noopener">ResearchGate</a></p>{% endif %}
+            {% if site.github %}<p class="text-muted text-small my-2"><span class="fab fa-github"></span> <a href="{{ site.github }}" target="_blank" rel="noopener">GitHub</a></p>{% endif %}
+            {% if site.linkedin %}<p class="text-muted text-small my-2"><span class="fab fa-linkedin"></span> <a href="{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></p>{% endif %}
+            {% if site.twitter %}<p class="text-muted text-small my-2"><span class="fab fa-twitter"></span> <a href="{{ site.twitter }}" target="_blank" rel="noopener">X (Twitter)</a></p>{% endif %}
+            <p class="text-muted text-small my-2"><span class="fas fa-file-pdf"></span> <a href="{{ '/files/Turkson_CV.pdf' | relative_url }}" target="_blank" rel="noopener">Curriculum Vitae</a></p>
+            </div>
+        </div>
+        <div class="col-md-9">
+            {{ content }}
+        </div>
+    </div>
+</div>
