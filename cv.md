@@ -59,7 +59,7 @@ layout: page
 - **Econometrics & statistics:** Stata, R, SAS, MATLAB, Fortran.
 - **Structural modeling:** Discrete Factor Random Effects (DFRE), dynamic discrete choice.
 - **Causal inference:** IV, DiD, RDD, matching, panel methods.
-- **Tools:** LaTeX, Git.
+- **Tools:** LaTeX, Github.
 
 ### Professional Memberships
 
