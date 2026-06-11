@@ -5,11 +5,9 @@ layout: page
 
 # QuantBridge
 
-**QuantBridge** is an applied quantitative webinar series co-founded by [Kingsford Onyina](https://www.linkedin.com/in/kingsford-onyina/){:target="_blank" rel="noopener"} (UNC Charlotte), [Vanessa Owusu Ansah](https://www.linkedin.com/){:target="_blank" rel="noopener"} (Lancaster University), and **Danny Turkson** (UNC Chapel Hill).
+**QuantBridge** is an applied quantitative webinar series co-founded by [Kingsford Onyina](https://kingsfordonyina.github.io){:target="_blank" rel="noopener"} (UNC Charlotte), [Vanessa Owusu Ansah](https://www.linkedin.com/in/nessa-owusu-ansah){:target="_blank" rel="noopener"} (Lancaster University), and **Danny Turkson** (UNC Chapel Hill).
 
 The series supports early-career researchers working with quasi-experimental methods, with sessions particularly relevant for scholars in economics, public policy, sociology, social work, political science, and related disciplines. Each topic is covered in two sessions: a theory session and a live software application session.
-
-Sign up for updates: [https://lnkd.in/eKj4qjwx](https://lnkd.in/eKj4qjwx){:target="_blank" rel="noopener"}
 
 ---
 
@@ -60,7 +58,7 @@ Graduate Student Egg Timer Presentations (90 minutes) &mdash; five papers, twelv
 <div class="qb-session">
 <h4>Session 6 &mdash; Capacity Development</h4>
 <p><strong>Date:</strong> Saturday, August 15</p>
-<p><strong>Facilitator:</strong> TBD</p>
+<p><strong>Facilitator:</strong> Dr. Jessica Leight (International Food Policy Research Institute (IFPRI))</p>
 </div>
 </div>
 

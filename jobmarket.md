@@ -5,7 +5,7 @@ layout: page
 
 # Job Market
 
-I am on the academic job market for the 2026--2027 cycle. My primary fields are **Family and Household Economics**, **Labor and Education Economics** and **Health Economics**, with secondary fields in **Applied Microeconometrics** and **Development Economics**. My job market paper and full publication record are on the [Research](research.html) page. I would be glad to hear from you at [dturkson@unc.edu](mailto:dturkson@unc.edu).
+I am on the job market for the 2026--2027 cycle. My primary fields are **Family and Household Economics**, **Labor and Education Economics** and **Health Economics**, with secondary fields in **Applied Microeconometrics** and **Development Economics**. My job market paper and full publication record are on the [Research](research.html) page. I would be glad to hear from you at [dturkson@unc.edu](mailto:dturkson@unc.edu).
 
 ### Application Materials
 

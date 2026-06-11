@@ -5,19 +5,19 @@ layout: page
 
 # Research
 
-My research uses structural econometric methods and reduced-form causal designs to study how family structure, parental behavior, and economic conditions shape children's lives — with applications in the United States and Sub-Saharan Africa.
+My research uses structural econometric methods and reduced-form causal designs to study how family structure, parental behavior, and economic conditions shape children's lives --- with applications in the United States and Sub-Saharan Africa.
 
 ---
 
 ### Job Market Paper
 
 **Turkson, D.** (2026). From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families. <span class="badge-jmp">Job Market Paper</span>  
-*Dissertation chapter. Advisor: Professor Donna Gilleskie, UNC Chapel Hill.*  
+*Advisor: Professor Donna Gilleskie, UNC Chapel Hill.*  
 [[Draft (PDF)](#){:target="_blank" rel="noopener"}] [[Slides](#){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
 
-How do parental behaviors at different stages of childhood causally shape a child's long-run outcomes? This paper estimates the causal impacts of observed parental behaviors (marriage/cohabitation, employment, welfare receipt, substance use, and criminal activity) at different ages of child development on teenage outcomes, specifically cognitive ability, educational attainment, substance use, and criminal behavior. Existing research largely establishes correlations rather than causal effects, and the few causal studies neglect the dynamic and jointly determined nature of parental behaviors during the most sensitive stages of a child's life, as well as the unique circumstances of fragile families — a persistently understudied population of children born to disadvantaged, often unmarried mothers who are disproportionately racial minorities with limited education and income. To address this, I develop and jointly estimate a dynamic model of parental behaviors, child cognitive skill production, and teenage outcome production using the Discrete Factor Random Effects methodology and data from the Fragile Families and Child Wellbeing Study (FFCWS). The model allows parental behaviors and child cognitive skill to evolve continuously over childhood, with teenage outcomes realized at the end of the developmental lifecycle, while explicitly accounting for permanent and time-varying family unobserved heterogeneity throughout, enabling credible causal identification. Three policy experiments illustrate the model's implications. A Sin-to-Skill policy, combining excise taxes on beer and cigarettes with reinvestment into county-level education, reduces welfare receipt by up to 10.9 percentage points and cuts smoking by up to 7.9 pp. A marriage promotion policy incentivizing biological fathers to cohabit or marry through the child's first year improves all educational outcomes by at least 1.9 pp. A mandatory one-year parental leave policy yields mixed results — reducing teenage substance use and sexual activity by up to 4.1 pp but increasing class failure and police encounters; highlighting the complexity of early-life labor force withdrawal for disadvantaged mothers.
+How do parental behaviors at different stages of childhood causally shape a child's long-run outcomes? This paper estimates the causal impacts of observed parental behaviors (marriage/cohabitation, employment, welfare receipt, substance use, and criminal activity) at different ages of child development on teenage outcomes, specifically cognitive ability, educational attainment, substance use, and criminal behavior. Existing research largely establishes correlations rather than causal effects, and the few causal studies neglect the dynamic and jointly determined nature of parental behaviors during the most sensitive stages of a child's life, as well as the unique circumstances of fragile families --- a persistently understudied population of children born to disadvantaged, often unmarried mothers who are disproportionately racial minorities with limited education and income. To address this, I develop and jointly estimate a dynamic model of parental behaviors, child cognitive skill production, and teenage outcome production using the Discrete Factor Random Effects methodology and data from the Fragile Families and Child Wellbeing Study (FFCWS). The model allows parental behaviors and child cognitive skill to evolve continuously over childhood, with teenage outcomes realized at the end of the developmental lifecycle, while explicitly accounting for permanent and time-varying family unobserved heterogeneity throughout, enabling credible causal identification. Three policy experiments illustrate the model's implications. A Sin-to-Skill policy, combining excise taxes on beer and cigarettes with reinvestment into county-level education, reduces welfare receipt by up to 10.9 pp and cuts smoking by up to 7.9 pp. A marriage promotion policy incentivizing biological fathers to cohabit or marry through the child's first year improves all educational outcomes by at least 1.9 pp. A mandatory one-year parental leave policy yields mixed results --- reducing teenage substance use and sexual activity by up to 4.1 pp but increasing class failure and police encounters; highlighting the complexity of early-life labor force withdrawal for disadvantaged mothers.
 
 </details>
 
@@ -39,7 +39,7 @@ Onyina, K. & **Turkson, D.** (2024). Cash Transfer and the Labor Supply of Vulne
 
 <details markdown="1"><summary>Abstract</summary>
 
-Cash transfers have been an effective mechanism in alleviating poverty, improving consumption, food security and health of the program beneficiaries. However, there are spillover effects of these programs such as its bidirectional effect on labor supply due to varied channels. One of the factors scholars overlook in the literature is household indebtedness. To that end, using a triple difference-in-differences model, we examine how debt moderates the impact of Ghana's LEAP 1000 program on labor supply of the program recipients. Overall, the findings indicate that LEAP 1000 decreases indebted beneficiaries' labor supply in terms of agriculture but increases labor supply for non-farm enterprises. We recommend integrating financial management and debt relief into cash transfer program design to enhance its effectiveness in boosting labor market engagement and reducing poverty.
+Cash transfers have been an effective mechanism in alleviating poverty, improving consumption, food security and health of the program beneficiaries. However, there are spillover effects of these programs such as its bidirectional effect on labor supply due to various channels. One of the factors scholars overlook in the literature is household indebtedness. To that end, using a triple difference-in-differences model, we examine how debt moderates the impact of Ghana's LEAP 1000 program on labor supply of the program recipients. Overall, the findings indicate that LEAP 1000 decreases indebted beneficiaries' labor supply in terms of agriculture but increases labor supply for non-farm enterprises. We recommend integrating financial management and debt relief into cash transfer program design to enhance its effectiveness in boosting labor market engagement and reducing poverty.
 
 </details>
 
@@ -76,7 +76,7 @@ Prior research suggests that college drinking adversely affects education. While
 
 ### Work in Progress
 
-- **Turkson, D.** Parental Substance Use, Incarceration, and the Long-Run Educational Achievements of Children.
+- **Turkson, D.** Parental Substance Use, Incarceration, and the Long-Run Educational Attainment of Children.
 
 - **Turkson, D.** Marijuana Legalization, Crime and Mental Health among Fathers in Fragile Families.
 

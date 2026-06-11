@@ -5,7 +5,7 @@ layout: page
 
 # Teaching & Mentoring
 
-I have been teaching economics, statistics, and research methods continuously since 2015 — across three institutions and two countries, at undergraduate and graduate levels, in classrooms ranging from 30 to 250 students.
+I have been teaching economics, statistics, and research methods continuously since 2015 --- across three institutions and two countries, at undergraduate and graduate levels, in classrooms ranging from 30 to 250 students, delivered in both in-person and fully virtual formats.
 
 [Teaching Statement (PDF)](assets/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
 
@@ -15,7 +15,9 @@ I have been teaching economics, statistics, and research methods continuously si
 
 **Instructor of Record**
 
-- *ECON 101: Introduction to Economics* (5×: Summer 2023, Fall 2023, Summer 2024, Summer 2025, Summer 2026). Sole instructor. Average enrollment ~30 students/section. Designed all lectures, assignments, and exams. Taught in both in-person.
+- *ECON 101: Introduction to Economics* (5&times;: Summer 2023, Fall 2023, Summer 2024, Summer 2025, Summer 2026). Sole instructor. Average enrollment ~30 students/section. Designed all lectures, assignments, and exams.
+
+[[Sample Syllabus](https://econ.unc.edu/wp-content/uploads/sites/1423/2025/08/ECON_101_001_SS1_2253.pdf){:target="_blank" rel="noopener"}]
 
 **Teaching Assistant**
 
@@ -102,30 +104,30 @@ Scale: 1 (lowest) to 5 (highest). Scores shown for four semesters as instructor 
 
 ### UNC Greensboro
 
-- *Teaching Assistant*, Department of Economics. 2019-2021. Assisted with ECON 201: Principles of Microeconomics. Instruction shifted fully to Zoom during the COVID-19 pandemic.
+- *Teaching Assistant*, Department of Economics. 2019--2021. Assisted with ECON 201: Principles of Microeconomics. Instruction shifted fully to Zoom during the COVID-19 pandemic.
 
 ---
 
 ### University of Ghana
 
-- *Teaching Assistant*, Department of Economics. 2015-2016. Led tutorial sessions for 150--250 undergraduate students in Elements of Economics. Conducted weekly Stata training and research methods workshops for final-year undergraduates.
-- *Teaching Assistant*, MA in Economic Policy Management. 2018-2019. Tutored ~30 graduate students in Microeconomics theory and applied econometrics.
-- *Teaching Assistant*, Applied Statistics & Mathematics. 2018-2019. Tutorial sections for ~200 undergraduate students covering probability, statistical inference, and linear algebra.
+- *Teaching Assistant*, Department of Economics. 2015--2016. Led tutorial sessions for 150--250 undergraduate students in Elements of Economics. Conducted weekly Stata training and research methods workshops for final-year undergraduates.
+- *Teaching Assistant*, MA in Economic Policy Management. 2018--2019. Tutored ~30 graduate students in Microeconomics theory and applied econometrics.
+- *Teaching Assistant*, Applied Statistics & Mathematics. 2018--2019. Tutorial sections for ~200 undergraduate students covering probability, statistical inference, and linear algebra.
 
 ---
 
 ### Pedagogical Training
 
-- **ECON 805** — Seminar in Teaching Methods in Economics, UNC Chapel Hill
-- **ECON 806** — Advanced Seminar in Teaching Methods (independent sections), UNC Chapel Hill
-- **Teaching Associate Certificate** — UNC Greensboro
+- **ECON 805** --- Seminar in Teaching Methods in Economics, UNC Chapel Hill
+- **ECON 806** --- Advanced Seminar in Teaching Methods (independent sections), UNC Chapel Hill
+- **Teaching Associate Certificate** --- UNC Greensboro
 
 ---
 
 ### Courses Ready to Teach
 
-**Undergraduate:** Principles/Intermediate/Advanced Microeconomics, Econometrics, Principles/Intermediate of Macroeconomics, Labor Economics, Health Economics, Development Economics.
+**Undergraduate:** Microeconomics, Econometrics, Macroeconomics, Labor Economics, Health Economics, Development Economics, and Public Finance.
 
-**Graduate:** Applied Microeconometrics, Labor and Family Economics, Development Economics, Health Economics.
+**Graduate:** Econometrics, Applied Microeconometrics, Labor Economics, Health Economics, and Development Economics.
 
-**New course I could develop:** *Economics of the Family and Child Development* — covering structural models of household behavior, intergenerational mobility, and policy evaluation with applications to fragile families in the US and developing economies.
+**New course I could develop:** *Economics of the Family and Child Development* --- covering structural models of household behavior, intergenerational mobility, and policy evaluation with applications to fragile families in the US and developing economies.
