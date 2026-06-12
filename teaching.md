@@ -15,9 +15,7 @@ I have been teaching economics, statistics, and research methods continuously si
 
 **Instructor of Record**
 
-- *ECON 101: Introduction to Economics* (5&times;: Summer 2023, Fall 2023, Summer 2024, Summer 2025, Summer 2026). Sole instructor. Average enrollment ~30 students/section. Designed all lectures, assignments, and exams.
-
-[[Sample Syllabus](https://econ.unc.edu/wp-content/uploads/sites/1423/2025/08/ECON_101_001_SS1_2253.pdf){:target="_blank" rel="noopener"}]
+- *ECON 101: Introduction to Economics* (5&times;: Summer 2023, Fall 2023, Summer 2024, Summer 2025, Summer 2026). Sole instructor. Average enrollment ~30 students/section. Designed all lectures, assignments, and exams. [Sample Syllabus (PDF)](https://econ.unc.edu/wp-content/uploads/sites/1423/2025/08/ECON_101_001_SS1_2253.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
 
 **Teaching Assistant**
 

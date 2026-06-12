@@ -7,6 +7,11 @@ layout: page
 
 My research uses structural econometric methods and reduced-form causal designs to study how family structure, parental behavior, and economic conditions shape children's lives --- with applications in the United States and Sub-Saharan Africa.
 
+#### Research Fields
+
+- **Primary:** Family Economics, Labor Economics, Health Economics
+- **Secondary:** Applied Microeconometrics, Education Economics, Development Economics
+
 ---
 
 ### Job Market Paper
@@ -25,7 +30,7 @@ How do parental behaviors at different stages of childhood causally shape a chil
 
 ### Working Papers
 
-**Turkson, D.**, Wahab, S., Yorke, F.R., & Akyena, S. (2024). The Causal Effects of Multidimensional School and Household Poverty on Student Achievement: An IV-Latent Class Analysis.  
+**Turkson, D.**, Wahab, S., Yorke, F.R., & Akyena, S. *The Causal Effects of Multidimensional School and Household Poverty on Student Achievement: An IV-Latent Class Analysis*.  
 [[Draft (PDF)](assets/Poverty_Student_Achievement.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
@@ -34,7 +39,7 @@ This paper estimates the causal effects of multidimensional school and household
 
 </details>
 
-Onyina, K. & **Turkson, D.** (2024). Cash Transfer and the Labor Supply of Vulnerable Households and Individuals: Does Household Indebtedness Matter? A Triple DiD Analysis.  
+Onyina, K. & **Turkson, D.**. *Cash Transfer and the Labor Supply of Vulnerable Households and Individuals: Does Household Indebtedness Matter? A Triple DiD Analysis*.  
 [[SSRN](https://ssrn.com/abstract=4935434){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
@@ -43,7 +48,7 @@ Cash transfers have been an effective mechanism in alleviating poverty, improvin
 
 </details>
 
-**Turkson, D.** (2024). Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking.  
+**Turkson, D.**. *Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking*.  
 [[SSRN](https://ssrn.com/abstract=5006755){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
