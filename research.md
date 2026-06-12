@@ -39,7 +39,7 @@ This paper estimates the causal effects of multidimensional school and household
 
 </details>
 
-Onyina, K. & **Turkson, D.**. *Cash Transfer and the Labor Supply of Vulnerable Households and Individuals: Does Household Indebtedness Matter? A Triple DiD Analysis*.  
+Onyina, K. & **Turkson, D.** *Cash Transfer and the Labor Supply of Vulnerable Households and Individuals: Does Household Indebtedness Matter? A Triple DiD Analysis*.  
 [[SSRN](https://ssrn.com/abstract=4935434){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
@@ -48,7 +48,7 @@ Cash transfers have been an effective mechanism in alleviating poverty, improvin
 
 </details>
 
-**Turkson, D.**. *Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking*.  
+**Turkson, D.** *Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking*.  
 [[SSRN](https://ssrn.com/abstract=5006755){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
