@@ -13,6 +13,14 @@ The series supports early-career researchers working with quasi-experimental met
 
 ### Program Schedule — 2026
 
+<div class="qb-special">
+<strong>Call for Papers &mdash; Fall 2026</strong><br>
+Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026, 11:59 PM EST.
+[Submission Instructions (PDF)](assets/call_for_papers.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
+</div>
+
+
+
 <div class="qb-phase">
 <h4 style="font-size:1.05rem;border-bottom:1px solid #e8e8e8;padding-bottom:.35rem;margin-bottom:.9rem">Phase I &mdash; February &ndash; April 2026</h4>
 
@@ -35,10 +43,10 @@ The series supports early-career researchers working with quasi-experimental met
 </div>
 </div>
 
-<div class="qb-special">
+<!-- <div class="qb-special">
 <strong>Special Session &mdash; May 16, 2026</strong><br>
 Graduate Student Egg Timer Presentations (90 minutes) &mdash; five papers, twelve minutes each, plus thirty minutes for discussion. More details to follow.
-</div>
+</div>          -->
 
 <div class="qb-phase">
 <h4 style="font-size:1.05rem;border-bottom:1px solid #e8e8e8;padding-bottom:.35rem;margin-bottom:.9rem">Phase II &mdash; June &ndash; August 2026</h4>

@@ -10,14 +10,14 @@ url: https://dannyturkson.github.io
 # personal info — shown in the profile sidebar on every page
 bio: "Ph.D. Candidate in Economics, University of North Carolina at Chapel Hill"
 email: dturkson@unc.edu
-school: https://econ.unc.edu/
+school:
 scholar: https://scholar.google.com/citations?user=L2GtW8UAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/dannyturkson/
 orcid:
 github: https://github.com/dannyturkson
 # Fill these in when ready — leave blank to hide the link automatically:
 twitter:
-researchgate: https://www.researchgate.net/profile/Danny-Turkson?ev=hdr_xprf
+researchgate:
 
 # framework toggles (leave as-is)
 bootstrap: true

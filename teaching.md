@@ -7,7 +7,7 @@ layout: page
 
 I have been teaching economics, statistics, and research methods continuously since 2015 --- across three institutions and two countries, at undergraduate and graduate levels, in classrooms ranging from 30 to 250 students, delivered in both in-person and fully virtual formats.
 
-[Teaching Statement (PDF)](assets/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
+<!-- [Teaching Statement (PDF)](assets/Turkson_Teaching_Statement.pdf){:target="_blank" rel="noopener" class="btn-pdf"}   -->
 
 ---
 

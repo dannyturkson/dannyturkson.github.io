@@ -11,7 +11,9 @@ My research lies at the intersection of **family economics**, **labor economics*
 
 My job market paper, *From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families*, develops and jointly estimates a dynamic model of parental behaviors and child development using the Discrete Factor Random Effects (DFRE) methodology and the Future of Families and Child Wellbeing Study (FFCWS).
 
-Before UNC Chapel Hill, I earned a Bachelor's degree in Economics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and a Master's degree in Applied Economics from [UNC Greensboro](https://www.uncg.edu/).
+<!-- Before UNC Chapel Hill, I earned a Bachelor's degree in Economics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and a Master's degree in Applied Economics from [UNC Greensboro](https://www.uncg.edu/). -->
+
+---
 
 I also serve as a [consultant with the World Bank's Enterprise Analysis Unit](https://www.worldbank.org/en/about/people/d/danny-turkson), supporting the World Bank Enterprise Surveys (WBES) program. With colleagues at UNC Charlotte and Lancaster University, I co-founded [QuantBridge](quantbridge.html), an applied quantitative webinar series for early-career researchers.
 
@@ -20,8 +22,8 @@ Here is my [Curriculum Vitae](assets/Turkson_CV.pdf){:target="_blank" rel="noope
 ### Research Interests
 
 - Parental behavior, family structure, and child development in fragile families
+- Dynamic structural modeling of household and lifecycle decisions
 - Intergenerational transmission of health, human capital, and economic status
 - Causal effects of cash transfers, social programs, and public policy on family outcomes
 - Maternal and child health; substance use; incarceration and its spillovers
-- Labor market outcomes and human capital formation in Sub-Saharan Africa
-- Dynamic structural modeling of household and lifecycle decisions
+<!--  - Labor market outcomes and human capital formation in Sub-Saharan Africa -->
