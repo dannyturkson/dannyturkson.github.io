@@ -16,7 +16,7 @@ The series supports early-career researchers working with quasi-experimental met
 <div class="qb-special">
 <strong>Call for Papers &mdash; Fall 2026</strong><br>
 Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026, 11:59 PM EST.
-[Submission Instructions (PDF)](assets/call_for_papers.pdf){:target="_blank" rel="noopener" class="btn-pdf"}
+<a href="/assets/call_for_papers.pdf" target="_blank" rel="noopener" class="btn-pdf">Submission Instructions (PDF)</a>
 </div>
 
 
