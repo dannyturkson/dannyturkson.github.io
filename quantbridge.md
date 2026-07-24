@@ -69,10 +69,12 @@ Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026,
 
 <div class="qb-carousel" id="qbCarousel">
   <button class="qb-carousel-btn prev" onclick="qbSlide(-1)" aria-label="Previous">&#8249;</button>
-  <div class="qb-carousel-track" id="qbTrack">
-    <img src="/assets/img/qb_iv_july24.jpg"       alt="Instrumental Variables: Theory & Application — Friday, July 24, 6PM EST. Facilitator: Isaac Koomson, PhD, The University of Queensland, Australia.">
-    <img src="/assets/img/qb_capacity_july31.jpg" alt="Capacity Development — Friday, July 31, 1PM EST. Facilitator: Jessica Leight, PhD, International Food Policy Research Institute, USA.">
-    <img src="/assets/img/qb_rdd_aug7.jpg"        alt="Regression Discontinuity: Theory & Application — Friday, August 7, 12PM EST. Facilitator: Samuel Obeng, PhD, University of Warwick, UK.">
+  <div class="qb-carousel-window" id="qbWindow">
+    <div class="qb-carousel-inner" id="qbInner">
+      <div class="qb-carousel-slide"><img src="/assets/img/qb_iv_july24.png"       alt="Instrumental Variables — Friday July 24, 6PM EST. Isaac Koomson, University of Queensland."></div>
+      <div class="qb-carousel-slide"><img src="/assets/img/qb_capacity_july31.jpg" alt="Capacity Development — Friday July 31, 1PM EST. Jessica Leight, IFPRI."></div>
+      <div class="qb-carousel-slide"><img src="/assets/img/qb_rdd_aug7.png"        alt="Regression Discontinuity — Friday August 7, 12PM EST. Samuel Obeng, University of Warwick."></div>
+    </div>
   </div>
   <button class="qb-carousel-btn next" onclick="qbSlide(1)" aria-label="Next">&#8250;</button>
   <div class="qb-carousel-dots" id="qbDots">
@@ -82,27 +84,45 @@ Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026,
   </div>
 </div>
 
+<style>
+.qb-carousel        { position:relative; max-width:420px; margin:1.2rem auto 1.8rem; }
+.qb-carousel-window { overflow:hidden; border-radius:8px; box-shadow:0 2px 12px rgba(0,0,0,.12); }
+.qb-carousel-inner  { display:flex; transition:transform .4s ease; will-change:transform; }
+.qb-carousel-slide  { min-width:100%; box-sizing:border-box; }
+.qb-carousel-slide img { width:100%; height:auto; display:block; }
+.qb-carousel-btn {
+  position:absolute; top:40%; transform:translateY(-50%);
+  background:rgba(255,255,255,.88); border:1px solid #ddd; border-radius:50%;
+  width:32px; height:32px; font-size:1.2rem; cursor:pointer;
+  display:flex; align-items:center; justify-content:center; z-index:2;
+}
+.qb-carousel-btn:hover { background:#fff; }
+.qb-carousel-btn.prev { left:-14px; }
+.qb-carousel-btn.next { right:-14px; }
+.qb-carousel-dots { display:flex; justify-content:center; gap:.45rem; margin-top:.75rem; }
+.qb-carousel-dots button {
+  width:9px; height:9px; border-radius:50%; border:none;
+  background:#ccc; padding:0; cursor:pointer; transition:background .2s;
+}
+.qb-carousel-dots button.active { background:#555; }
+</style>
+
 <script>
 (function(){
-  var current = 0;
-  var total = 3;
+  var current = 0, total = 3, timer;
   function update(){
-    var track = document.getElementById('qbTrack');
-    var dots  = document.getElementById('qbDots').querySelectorAll('button');
-    track.style.display = 'flex';
-    track.style.transform = 'translateX(-' + (current * 100) + '%)';
-    track.style.transition = 'transform .4s ease';
-    dots.forEach(function(d,i){ d.classList.toggle('active', i===current); });
+    document.getElementById('qbInner').style.transform = 'translateX(-' + (current * 100) + '%)';
+    document.getElementById('qbDots').querySelectorAll('button').forEach(function(d,i){
+      d.classList.toggle('active', i === current);
+    });
   }
-  window.qbSlide = function(dir){
-    current = (current + dir + total) % total;
-    update();
-  };
-  window.qbGoTo = function(i){
-    current = i;
-    update();
-  };
-  setInterval(function(){ window.qbSlide(1); }, 5000);
+  function resetTimer(){
+    clearInterval(timer);
+    timer = setInterval(function(){ current = (current + 1) % total; update(); }, 5000);
+  }
+  window.qbSlide = function(dir){ current = (current + dir + total) % total; update(); resetTimer(); };
+  window.qbGoTo  = function(i){  current = i; update(); resetTimer(); };
+  resetTimer();
 })();
 </script>
 
