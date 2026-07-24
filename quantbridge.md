@@ -11,15 +11,13 @@ The series supports early-career researchers working with quasi-experimental met
 
 ---
 
-### Program Schedule — 2026
+### Program Schedule --- 2026
 
 <div class="qb-special">
 <strong>Call for Papers &mdash; Fall 2026</strong><br>
 Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026, 11:59 PM EST.
 <a href="/assets/call_for_papers.pdf" target="_blank" rel="noopener" class="btn-pdf">Submission Instructions (PDF)</a>
 </div>
-
-
 
 <div class="qb-phase">
 <h4 style="font-size:1.05rem;border-bottom:1px solid #e8e8e8;padding-bottom:.35rem;margin-bottom:.9rem">Phase I &mdash; February &ndash; April 2026</h4>
@@ -43,32 +41,70 @@ Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026,
 </div>
 </div>
 
-<!-- <div class="qb-special">
-<strong>Special Session &mdash; May 16, 2026</strong><br>
-Graduate Student Egg Timer Presentations (90 minutes) &mdash; five papers, twelve minutes each, plus thirty minutes for discussion. More details to follow.
-</div>          -->
-
 <div class="qb-phase">
 <h4 style="font-size:1.05rem;border-bottom:1px solid #e8e8e8;padding-bottom:.35rem;margin-bottom:.9rem">Phase II &mdash; June &ndash; August 2026</h4>
 
 <div class="qb-session">
-<h4>Session 4 &mdash; Regression Discontinuity Design (RDD)</h4>
-<p><strong>Theory:</strong> Saturday, June 6 &nbsp;|&nbsp; <strong>Application:</strong> Friday, June 20</p>
-<p><strong>Facilitator:</strong> Dr. Samuel Kwabena Obeng (University of Warwick, UK)</p>
-</div>
-
-<div class="qb-session">
 <h4>Session 5 &mdash; Instrumental Variables (IV)</h4>
-<p><strong>Theory &amp; Application:</strong> Wednesday, July 16</p>
+<p><strong>Theory &amp; Application:</strong> Friday, July 24 &nbsp;|&nbsp; 6:00 PM (ET)</p>
 <p><strong>Facilitator:</strong> Dr. Isaac Koomson (The University of Queensland, Australia)</p>
 </div>
 
 <div class="qb-session">
-<h4>Session 6 &mdash; Capacity Development</h4>
-<p><strong>Date:</strong> Saturday, August 15</p>
+<h4>Session 6 &mdash; Capacity Development: Publishing in High Impact Journals</h4>
+<p><strong>Date:</strong> Friday, July 31 &nbsp;|&nbsp; 1:00 PM (ET)</p>
 <p><strong>Facilitator:</strong> Dr. Jessica Leight (International Food Policy Research Institute (IFPRI))</p>
 </div>
+
+<div class="qb-session">
+<h4>Session 4 &mdash; Regression Discontinuity Design (RDD)</h4>
+<p><strong>Theory &amp; Application:</strong> Friday, August 7 &nbsp;|&nbsp; 12:00 PM (ET)</p>
+<p><strong>Facilitator:</strong> Dr. Samuel Obeng (University of Warwick, UK)</p>
 </div>
+</div>
+
+---
+
+### Upcoming Sessions
+
+<div class="qb-carousel" id="qbCarousel">
+  <button class="qb-carousel-btn prev" onclick="qbSlide(-1)" aria-label="Previous">&#8249;</button>
+  <div class="qb-carousel-track" id="qbTrack">
+    <img src="/assets/img/qb_iv_july24.png"       alt="Instrumental Variables: Theory & Application — Friday, July 24, 6PM EST. Facilitator: Isaac Koomson, PhD, The University of Queensland, Australia.">
+    <img src="/assets/img/qb_capacity_july31.jpg" alt="Capacity Development: Publishing in High Impact Journals — Friday, July 31, 1PM EST. Facilitator: Jessica Leight, PhD, International Food Policy Research Institute, USA.">
+    <img src="/assets/img/qb_rdd_aug7.png"        alt="Regression Discontinuity: Theory & Application — Friday, August 7, 12PM EST. Facilitator: Samuel Obeng, PhD, University of Warwick, UK.">
+  </div>
+  <button class="qb-carousel-btn next" onclick="qbSlide(1)" aria-label="Next">&#8250;</button>
+  <div class="qb-carousel-dots" id="qbDots">
+    <button class="active" onclick="qbGoTo(0)" aria-label="Slide 1"></button>
+    <button onclick="qbGoTo(1)" aria-label="Slide 2"></button>
+    <button onclick="qbGoTo(2)" aria-label="Slide 3"></button>
+  </div>
+</div>
+
+<script>
+(function(){
+  var current = 0;
+  var total = 3;
+  function update(){
+    var track = document.getElementById('qbTrack');
+    var dots  = document.getElementById('qbDots').querySelectorAll('button');
+    track.style.display = 'flex';
+    track.style.transform = 'translateX(-' + (current * 100) + '%)';
+    track.style.transition = 'transform .4s ease';
+    dots.forEach(function(d,i){ d.classList.toggle('active', i===current); });
+  }
+  window.qbSlide = function(dir){
+    current = (current + dir + total) % total;
+    update();
+  };
+  window.qbGoTo = function(i){
+    current = i;
+    update();
+  };
+  setInterval(function(){ window.qbSlide(1); }, 5000);
+})();
+</script>
 
 ---
 
