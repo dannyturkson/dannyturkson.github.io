@@ -51,9 +51,9 @@ Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026,
   <button class="qb-carousel-btn prev" onclick="qbSlide(-1)" aria-label="Previous">&#8249;</button>
   <div class="qb-carousel-window" id="qbWindow">
     <div class="qb-carousel-inner" id="qbInner">
-      <div class="qb-carousel-slide"><img src="/assets/img/qb_iv_july24.png"       alt="Instrumental Variables — Friday July 24, 6PM EST. Isaac Koomson, University of Queensland."></div>
+      <div class="qb-carousel-slide"><img src="/assets/img/qb_iv_july24.jpg"       alt="Instrumental Variables — Friday July 24, 6PM EST. Isaac Koomson, University of Queensland."></div>
       <div class="qb-carousel-slide"><img src="/assets/img/qb_capacity_july31.jpg" alt="Capacity Development — Friday July 31, 1PM EST. Jessica Leight, IFPRI."></div>
-      <div class="qb-carousel-slide"><img src="/assets/img/qb_rdd_aug7.png"        alt="Regression Discontinuity — Friday August 7, 12PM EST. Samuel Obeng, University of Warwick."></div>
+      <div class="qb-carousel-slide"><img src="/assets/img/qb_rdd_aug7.jpg"        alt="Regression Discontinuity — Friday August 7, 12PM EST. Samuel Obeng, University of Warwick."></div>
     </div>
   </div>
   <button class="qb-carousel-btn next" onclick="qbSlide(1)" aria-label="Next">&#8250;</button>
