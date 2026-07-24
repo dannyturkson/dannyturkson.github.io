@@ -70,9 +70,9 @@ Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026,
 <div class="qb-carousel" id="qbCarousel">
   <button class="qb-carousel-btn prev" onclick="qbSlide(-1)" aria-label="Previous">&#8249;</button>
   <div class="qb-carousel-track" id="qbTrack">
-    <img src="/assets/img/qb_iv_july24.png"       alt="Instrumental Variables: Theory & Application — Friday, July 24, 6PM EST. Facilitator: Isaac Koomson, PhD, The University of Queensland, Australia.">
-    <img src="/assets/img/qb_capacity_july31.jpg" alt="Capacity Development: Publishing in High Impact Journals — Friday, July 31, 1PM EST. Facilitator: Jessica Leight, PhD, International Food Policy Research Institute, USA.">
-    <img src="/assets/img/qb_rdd_aug7.png"        alt="Regression Discontinuity: Theory & Application — Friday, August 7, 12PM EST. Facilitator: Samuel Obeng, PhD, University of Warwick, UK.">
+    <img src="/assets/img/qb_iv_july24.jpg"       alt="Instrumental Variables: Theory & Application — Friday, July 24, 6PM EST. Facilitator: Isaac Koomson, PhD, The University of Queensland, Australia.">
+    <img src="/assets/img/qb_capacity_july31.jpeg" alt="Capacity Development — Friday, July 31, 1PM EST. Facilitator: Jessica Leight, PhD, International Food Policy Research Institute, USA.">
+    <img src="/assets/img/qb_rdd_aug7.jpg"        alt="Regression Discontinuity: Theory & Application — Friday, August 7, 12PM EST. Facilitator: Samuel Obeng, PhD, University of Warwick, UK.">
   </div>
   <button class="qb-carousel-btn next" onclick="qbSlide(1)" aria-label="Next">&#8250;</button>
   <div class="qb-carousel-dots" id="qbDots">
