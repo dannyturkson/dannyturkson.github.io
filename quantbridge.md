@@ -111,19 +111,19 @@ Applied Quantitative Webinar Series &mdash; Submission Deadline: August 1, 2026,
 <h4 style="font-size:1.05rem;border-bottom:1px solid #e8e8e8;padding-bottom:.35rem;margin-bottom:.9rem">Phase II &mdash; June &ndash; August 2026</h4>
 
 <div class="qb-session">
-<h4>Session 5 &mdash; Instrumental Variables (IV)</h4>
+<h4>Session 4 &mdash; Instrumental Variables (IV)</h4>
 <p><strong>Theory &amp; Application:</strong> Friday, July 24 &nbsp;|&nbsp; 6:00 PM (ET)</p>
 <p><strong>Facilitator:</strong> Dr. Isaac Koomson (The University of Queensland, Australia)</p>
 </div>
 
 <div class="qb-session">
-<h4>Session 6 &mdash; Capacity Development: Publishing in High Impact Journals</h4>
+<h4>Session 5 &mdash; Capacity Development: Publishing in High Impact Journals</h4>
 <p><strong>Date:</strong> Friday, July 31 &nbsp;|&nbsp; 1:00 PM (ET)</p>
 <p><strong>Facilitator:</strong> Dr. Jessica Leight (International Food Policy Research Institute (IFPRI))</p>
 </div>
 
 <div class="qb-session">
-<h4>Session 4 &mdash; Regression Discontinuity Design (RDD)</h4>
+<h4>Session 6 &mdash; Regression Discontinuity Design (RDD)</h4>
 <p><strong>Theory &amp; Application:</strong> Friday, August 7 &nbsp;|&nbsp; 12:00 PM (ET)</p>
 <p><strong>Facilitator:</strong> Dr. Samuel Obeng (University of Warwick, UK)</p>
 </div>
