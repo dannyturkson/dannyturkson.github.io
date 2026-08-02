@@ -16,7 +16,7 @@ My research uses structural econometric methods and reduced-form causal designs 
 
 ### Job Market Paper
 
-**Turkson, D.** (2026). From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families. <span class="badge-jmp">Job Market Paper</span>  
+**Turkson, D.** From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families. <span class="badge-jmp">Job Market Paper</span>  
 *Advisor: Professor Donna Gilleskie, UNC Chapel Hill.*  
 [[Draft (PDF)](#){:target="_blank" rel="noopener"}] [[Slides](#){:target="_blank" rel="noopener"}]
 
