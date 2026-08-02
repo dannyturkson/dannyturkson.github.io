@@ -30,6 +30,17 @@ How do parental behaviors at different stages of childhood causally shape a chil
 
 ### Working Papers
 
+**Turkson, D.** *Under the Influence: Marijuana Legalization, Crime, and Father Well-Being in Fragile Families*.  
+[[Draft (PDF)](assets/Marijuana Policy_Danny Turkson.pdf){:target="_blank" rel="noopener"}]
+
+<details markdown="1"><summary>Abstract</summary>
+
+This paper studies the effect of state medical marijuana legalization on a broad set of family well-being outcomes using data from the Fragile Families and Child Wellbeing Study (FFCWS), a longitudinal cohort of largely unmarried, economically disadvantaged parents. Exploiting staggered state-level adoption of medical marijuana laws between 2001 and 2018, I estimate both a two-way fixed effects (TWFE) event-study specification and the state-clustered Callaway and Sant'Anna group-time average treatment effect estimator across eight outcome domains: mental health, substance use, criminal justice contact, labor market activity, relationship and family structure, intimate partner violence, parenting behavior, and housing and food insecurity. The significant father-side effects include a reduced likelihood of repartnering after separation, increased criminal justice contact, worsened mental health, and greater receipt of welfare. A mechanism check shows the mental health effect does not attenuate when criminal justice contact is added as a control, suggesting a channel operating independently of legal exposure and not through decriminalization. A heterogeneity check shows these effects are concentrated among fathers who had not used marijuana prior to legalization, consistent with the effects operating through legalization-induced changes in behavior, not simply pre-existing use. This pattern is evidence that medical marijuana legalization affects family well-being through a channel specific to fathers' own exposure, not a generic household-level or state-level confound.
+
+</details>
+
+
+
 **Turkson, D.**, Wahab, S., Yorke, F.R., & Akyena, S. *The Causal Effects of Multidimensional School and Household Poverty on Student Achievement: An IV-Latent Class Analysis*.  
 [[Draft (PDF)](assets/Poverty_Student_Achievement.pdf){:target="_blank" rel="noopener"}]
 
@@ -82,7 +93,5 @@ Prior research suggests that college drinking adversely affects education. While
 ### Work in Progress
 
 - **Turkson, D.** Parental Substance Use, Incarceration, and the Long-Run Educational Attainment of Children.
-
-- **Turkson, D.** Marijuana Legalization, Crime and Mental Health among Fathers in Fragile Families.
 
 - **Turkson, D.** & Malone, T. Rural Hospital Closures and Hospital Surge Capacity.
