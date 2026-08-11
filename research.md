@@ -22,7 +22,7 @@ My research uses structural econometric methods and reduced-form causal designs 
 
 <details markdown="1"><summary>Abstract</summary>
 
-How do parental behaviors at different stages of childhood causally shape a child’s long-run outcomes? This paper estimates the causal impacts of observed parental behaviors (marriage/cohabitation, employment, welfare receipt, substance use, and criminal activity) on cognitive ability, and teenage educational attainment, substance use, and criminal behavior among fragile families. Existing research largely establishes correlations rather than causal effects, and the few causal studies neglect the dynamic and jointly determined nature of parental behaviors during the most sensitive stages of a child’s life. To address this, I develop and jointly estimate a dynamic model of parental behaviors, child cognitive skill production, and teenage outcome production using the Discrete Factor Random Effects methodology and data from the Fragile Families and Child Wellbeing Study. The model accounts for permanent and time-varying family unobserved heterogeneity throughout, enabling credible causal identification. A key finding is that parental behaviors shape teenage outcomes primarily through direct behavioral pathways rather than through cognitive skill formation, suggesting that policies aimed solely at boosting cognitive test scores are unlikely to undo the long-run damage of adverse parental trajectories. Three policy experiments – a Sin-to-Skill tax, a marriage promotion policy, and a mandatory parental leave policy – illustrate that sustained, multi-dimensional interventions targeting early childhood offer the greatest potential for improving long-run child outcomes in fragile families.
+How do parental behaviors at different stages of childhood causally shape a child's teenage outcomes? This paper estimates the causal impacts of observed parental behaviors (marriage/cohabitation, employment, welfare receipt, substance use, and criminal activity) on cognitive ability, and teenage educational attainment, substance use, and criminal behavior among fragile families. Much of the existing research is correlational, and existing causal studies neglect the dynamic and jointly determined nature of parental behaviors during the most sensitive stages of a child's life. To address this, I jointly estimate a dynamic model of parental behaviors, child cognitive skill production, and teenage outcome production using data from the Fragile Families and Child Wellbeing Study. The model accounts for theoretically relevant and empirically tested exclusion restriction, and permanent and time-varying family unobserved heterogeneity throughout, enabling credible causal identification. A key finding is that parental behaviors shape teenage outcomes primarily through direct behavioral pathways rather than through cognitive skill formation, suggesting that policies aimed solely at boosting cognitive test scores are unlikely to undo the long-run damage of adverse parental trajectories. Three policy experiments – a Sin-to-Skill tax, a Father-to-Foundation marriage promotion policy, and a Peer-to-Promise policy – illustrate that sustained, multi-dimensional interventions targeting early childhood and the adolescent social environment offer the greatest potential for improving long-run child outcomes in fragile families.
 
 </details>
 
@@ -50,12 +50,18 @@ This paper estimates the causal effects of multidimensional school and household
 
 </details>
 
-Onyina, K. & **Turkson, D.** *Cash Transfer and the Labor Supply of Vulnerable Households and Individuals: Does Household Indebtedness Matter? A Triple DiD Analysis*.  
-[[SSRN](https://ssrn.com/abstract=4935434){:target="_blank" rel="noopener"}]
+Onyina, K. & **Turkson, D.** *Cash Transfers and Labour Supply of Vulnerable Households: Does Household Indebtedness Matter? A Triple-Diﬀerence Analysis*.
+[[Draft (PDF)](assets/Cash Transfer_manuscript.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
 
-Cash transfers have been an effective mechanism in alleviating poverty, improving consumption, food security and health of the program beneficiaries. However, there are spillover effects of these programs such as its bidirectional effect on labor supply due to various channels. One of the factors scholars overlook in the literature is household indebtedness. To that end, using a triple difference-in-differences model, we examine how debt moderates the impact of Ghana's LEAP 1000 program on labor supply of the program recipients. Overall, the findings indicate that LEAP 1000 decreases indebted beneficiaries' labor supply in terms of agriculture but increases labor supply for non-farm enterprises. We recommend integrating financial management and debt relief into cash transfer program design to enhance its effectiveness in boosting labor market engagement and reducing poverty.
+Cash transfer programs aim to reduce poverty, but their impact on labor supply in developing economies is debated, showing heterogeneous, neutral, or even positive eﬀects. Scholars are moving
+past the classic labor-leisure theory to examine behavioral factors like liquidity constraints and gender dynamics, but the role of household indebtedness remains underexplored. In low-income settings,
+debt is a significant constraint that can alter how households respond to income transfers and distort both consumption and labor decisions, challenging standard economic models. This study examines
+how household indebtedness influences the labor supply eﬀects of Ghana’s LEAP 1000 cash transfer program, given that beneficiaries had high baseline debt burdens than nationally representative rural
+populations. Using a quasi-experimental design, we find that indebted beneficiaries increase wage work and non-farm enterprise (NFE) formation but decrease part-time and agricultural employment.
+The eﬀect further varies by debt type, investment and consumption debt increased NFE formation. Informal debt led to an increase in wage work due to repayment pressures. In contrast, formal debt
+was associated with an increase in entrepreneurship, especially among women. These findings highlight the need for debt-sensitive cash transfer policies, structured credit access, and gender-focused financial interventions to boost labor market inclusion and economic resilience.
 
 </details>
 
@@ -92,6 +98,8 @@ Prior research suggests that college drinking adversely affects education. While
 
 ### Work in Progress
 
-- **Turkson, D.** Parental Substance Use, Incarceration, and the Long-Run Educational Attainment of Children.
+- **Turkson, D.** Parental Substance Use, Incarceration, and the Long-Run Educational Attainment of Children in Fragile Families.
+
+- **Turkson, D.** Intergenerational Transmission of the Parental Behavior Bundle in Fragile Families.
 
 - **Turkson, D.** & Malone, T. Rural Hospital Closures and Hospital Surge Capacity.
