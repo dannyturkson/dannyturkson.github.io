@@ -31,7 +31,7 @@ How do parental behaviors at different stages of childhood causally shape a chil
 ### Working Papers
 
 **Turkson, D.** *Under the Influence: Marijuana Legalization, Crime, and Father Well-Being in Fragile Families*.  
-[[Draft (PDF)](assets/Marijuana Policy_Danny Turkson.pdf){:target="_blank" rel="noopener"}]
+[[Draft (PDF)](assets/Marijuana_Policy_Danny_Turkson.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
 
@@ -51,7 +51,7 @@ This paper estimates the causal effects of multidimensional school and household
 </details>
 
 Onyina, K. & **Turkson, D.** *Cash Transfers and Labour Supply of Vulnerable Households: Does Household Indebtedness Matter? A Triple-Diﬀerence Analysis*.
-[[Draft (PDF)](assets/Cash Transfer_manuscript.pdf){:target="_blank" rel="noopener"}]
+[[Draft (PDF)](assets/Cash_Transfer_manuscript.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
 
