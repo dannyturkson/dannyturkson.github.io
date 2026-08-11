@@ -50,7 +50,7 @@ This paper estimates the causal effects of multidimensional school and household
 
 </details>
 
-Onyina, K. & **Turkson, D.** *Cash Transfers and Labour Supply of Vulnerable Households: Does Household Indebtedness Matter? A Triple-Diﬀerence Analysis*.
+Onyina, K. & **Turkson, D.** *Cash Transfers and Labour Supply of Vulnerable Households: Does Household Indebtedness Matter? A Triple-Diﬀerence Analysis*.  
 [[Draft (PDF)](assets/Cash_Transfer_manuscript.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
