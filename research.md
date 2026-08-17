@@ -18,7 +18,7 @@ My research uses structural econometric methods and reduced-form causal designs 
 
 **Turkson, D.** From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families. <span class="badge-jmp">Job Market Paper</span>  
 *Advisor: Professor Donna Gilleskie, UNC Chapel Hill.*  
-[[Draft (PDF)](assets/JMP_Danny_Turkson.pdf){:target="_blank" rel="noopener"}]
+[[Draft (PDF)](assets/JMP_DannyTurkson.pdf){:target="_blank" rel="noopener"}]
 
 <details markdown="1"><summary>Abstract</summary>
 
