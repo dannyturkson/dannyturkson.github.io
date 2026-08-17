@@ -9,7 +9,7 @@ I am a Ph.D. candidate in Economics at the [University of North Carolina at Chap
 
 My research lies at the intersection of **family economics**, **labor economics**, and **health economics**. A unifying theme runs across my work: understanding how the circumstances into which children are born, and the decisions of the adults who raise them, shape life outcomes in education, health, and economic well-being. I use a range of methods — dynamic structural modeling, quasi-experimental methods, and other reduced-form causal designs — to generate credible evidence that can guide policy in the United States and Sub-Saharan Africa.
 
-My job market paper, [*From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families*](assets/JMP_DannyTurkson.pdf), develops and jointly estimates a dynamic model of parental behaviors and child development using the Discrete Factor Random Effects (DFRE) methodology and the Future of Families and Child Wellbeing Study (FFCWS).
+My job market paper, [*From Cradle to Consequence: The Dynamic Impact of Parental Behaviors on Teenage Outcomes Among Fragile Families*](assets/JMP_DannyTurkson.pdf){:target="_blank" rel="noopener"}, develops and jointly estimates a dynamic model of parental behaviors and child development using the Discrete Factor Random Effects (DFRE) methodology and the Future of Families and Child Wellbeing Study (FFCWS).
 
 <!-- Before UNC Chapel Hill, I earned a Bachelor's degree in Economics and Statistics from the [University of Ghana](https://www.ug.edu.gh/) and a Master's degree in Applied Economics from [UNC Greensboro](https://www.uncg.edu/). -->
 
