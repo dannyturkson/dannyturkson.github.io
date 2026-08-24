@@ -5,7 +5,7 @@ layout: page
 
 # Welcome!
 
-I am a Ph.D. candidate in Economics at the [University of North Carolina at Chapel Hill](https://www.unc.edu/). I expect to be on the job market in the 2026-2027 cycle. I am advised by Professor [Donna Gilleskie](https://econ.unc.edu/people/gilleskie-donna/).
+I am a Ph.D. candidate in Economics at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), currently on the job market. I am advised by Professor [Donna Gilleskie](https://econ.unc.edu/people/gilleskie-donna/).
 
 My research lies at the intersection of **family economics**, **labor economics**, and **health economics**. A unifying theme runs across my work: understanding how the circumstances into which children are born, and the decisions of the adults who raise them, shape life outcomes in education, health, and economic well-being. I use a range of methods — dynamic structural modeling, quasi-experimental methods, and other reduced-form causal designs — to generate credible evidence that can guide policy in the United States and Sub-Saharan Africa.
 
